@@ -77,7 +77,7 @@ export default function Hero() {
 
             <p className="mt-8 max-w-xl text-lg">
 
-              AI & Data Science student at IIT Madras passionate about
+              Data Science student at IIT Madras passionate about
               designing intelligent software powered by Machine Learning,
               Large Language Models, AI Agents and scalable backend
               systems for real-world applications.
@@ -148,7 +148,7 @@ export default function Hero() {
 
                 <h3 className="text-3xl font-black">
 
-                  3+
+                  6+
 
                 </h3>
 
@@ -164,7 +164,7 @@ export default function Hero() {
 
                 <h3 className="text-3xl font-black">
 
-                  15+
+                  30+
 
                 </h3>
 
@@ -230,7 +230,7 @@ export default function Hero() {
 
                   <p className="mt-2 text-gray-600">
 
-                    AI & Data Science Student
+                    Data Science & Engineering Student
 
                   </p>
 
@@ -298,8 +298,7 @@ export default function Hero() {
 
                     <h4 className="mt-1 font-semibold">
 
-                      AI Engineering & Machine Learning
-
+                      Data Science & Engineering
                     </h4>
 
                   </div>
