@@ -218,7 +218,7 @@ export default function Hero() {
 
                   <p className="text-sm font-medium text-gray-500">
 
-                    AI Engineer Portfolio
+                    Portfolio
 
                   </p>
 
